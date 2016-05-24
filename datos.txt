@@ -1,0 +1,4 @@
+tipo de dato variable;
+variable = expresion;
+vector[expresion] = expresion;
+if(expresion) then comando;
